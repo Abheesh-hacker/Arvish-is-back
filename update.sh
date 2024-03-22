@@ -1,6 +1,6 @@
 #!/bin/bash
-# Update Script for Termux_welcome v2.1-Stable
-# Script created by @certified_youtuber
+# Update Script for Arvish-is-back v2.1-Stable
+# Script created by Arvish-is-back 
 
 
 dependencies() {
@@ -15,9 +15,9 @@ clear
 printf "\n \e[1;92mUpdating \e[1;94mTERMUX-WELCOME\e[1;92m ...\n\n"
 sleep 1.5
 cd ..
-rm -rf TERMUX-WELCOME
-git clone https://github.com/itzR00TBYTE/TERMUX-WELCOME
-cd TERMUX-WELCOME
+rm -rf Arvish-is-back 
+git clone https://github.com/Abheesh-hacker/Arvish-is-back
+cd Arvish-is-back 
 printf "\n\e[1;92mRestarting ...\n\e[0m"
 bash install.sh
 clear
