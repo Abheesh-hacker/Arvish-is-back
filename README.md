@@ -1,4 +1,4 @@
-# TERMUX-WELCOME PROJECT BY SNEHITH CHOWDARY
+# Arvish-is-back PROJECT BY arvish 
 ### Beautify your Termux App With a warm welcome
 
 ## [+] Installation & Usage
@@ -9,9 +9,9 @@ apt install git -y
 
 pkg install mpv -y
 
-git clone https://github.com/itzr00tbyte/TERMUX-WELCOME
+git clone https://github.com/Abheesh-hacker/Arvish-is-back
 
-cd TERMUX-WELCOME
+cd Arvish-is-back
 
 chmod +x *
 
@@ -22,16 +22,9 @@ exit
 
 ## [+]How to remove 
 ```
-cd TERMUX-WELCOME
+cd Arvish-is-back
 
 bash rvt.sh
 ```
 <p align="center">
-<img src="https://telegra.ph/file/b5c0c1aeb6c4a54b1f5f4.jpg" alt="Script Kiddie">
-
-    
-## [+] Find Me on :
-#### Telegram :https://t.me/certified_youtuber
-#### Join cahnnel and Show your love :https://t.me/scriptKiddiesvR
-##### Youtube channel :https://www.youtube.com/c/scriptkiddietelugu
 
