@@ -3,6 +3,6 @@ cd
 cd ..
 cd usr/etc
 rm bash.bashrc
-cd $HOME/TERMUX-WELCOME/Revert
+cd $HOME/Arvish-is-back/Revert
 mv bash.bashrc $PREFIC/etc
-python $HOME/TERMUX-WELCOME/Revert/Thanks.py
+python $HOME/Arvish-is-back/Revert/Thanks.py
