@@ -1,0 +1,31 @@
+<div>
+  <label for="your-name">Your Name:</label>
+  <input type="text" id="your-name">
+</div>
+<div>
+  <label for="patner-name">Partner's Name:</label>
+  <input type="text" id="patner-name">
+</div>
+<button id="btn">Calculate Love Percentage</button>
+<div id="result"></div>
+
+<script>
+  let result = document.querySelector("#result");
+  let btn = document.querySelector("#btn");
+
+  btn.addEventListener("click", () => {
+    let randomNumber = parseInt(Math.random() * 100);
+    console.log(randomNumber);
+
+    let yourName = document.querySelector("#your-name").value;
+    let patnerName = document.querySelector("#patner-name").value;
+
+    if (yourName === '') {
+      alert("Please enter Your Name!");
+    } else if (patnerName === '') {
+      alert("Please enter Partner's Name!");
+    } else {
+      result.innerHTML = ${yourName} and ${patnerName} love Percentage is: ${randomNumber}%;
+    }
+  });
+    </script>
